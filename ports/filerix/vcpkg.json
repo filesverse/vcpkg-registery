@@ -1,0 +1,16 @@
+{
+  "name": "filerix",
+  "version": "1.1.0",
+  "description": "A fast and lightweight file manager library.",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "zlib"
+  ]
+}
